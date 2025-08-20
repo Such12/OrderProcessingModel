@@ -1,4 +1,4 @@
-# 🛒 Order Processing Model
+#  Order Processing Model
 
 A lightweight **event-driven order processing system** implemented in **Java**.  
 This project simulates an order lifecycle with events such as **Order Creation, Payment, Shipping, and Cancellation** using a simple **event handler pattern**.  
